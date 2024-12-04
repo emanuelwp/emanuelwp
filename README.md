@@ -50,8 +50,8 @@
 
 - 🎓 Estudante de Sistemas para Internet na UFSM.
 - 💼 Presidente da **CompAct Jr.**, onde lidero equipes e desenvolvemos soluções tecnológicas inovadoras.
-- 🌱 Atualmente aprendendo mais sobre **microsserviços** e **arquitetura de sistemas distribuídos**.
-- 👯 Sempre aberto para colaborar em projetos open source e trocar conhecimento.
+- 🌱 Atualmente aprendendo mais sobre **microsserviços**.
+- 👯 Sempre aberto para colaborar em projetos e trocar conhecimento.
 
 ---
 
