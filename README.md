@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js" alt="NodeJS">
   <img src="https://img.shields.io/badge/-AdonisJS-333333?style=flat&logo=adonisjs" alt="AdonisJS">
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreeSQL">
   <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia">
   <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman">
