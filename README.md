@@ -51,8 +51,8 @@
 
 - 🎓 Graduado em Sistemas para Internet na UFSM.
 - 💼 Mestrando em Ciência da Computação na UFSM.
-- 🌱 Atualmente estudando sobre **Microsserviços** e também buscando desenvolver mais as minhas habilidades no **FrontEnd**.
 - 👯 Sempre aberto para colaborar em projetos e trocar conhecimento.
+- 🌱 Atualmente estudando sobre **Microsserviços** e buscando aprimorar minhas habilidades no **FrontEnd**.
 
 ---
 
