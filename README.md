@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Emanuel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge">
 
-💻 Back-end Developer | 🚀 Apaixonado por tecnologia | 🛠️ Sempre aprendendo algo novo | 🌱 Em constante evolução | 🔧 Focado em criar soluções eficientes
+💻 FullStack Developer | 🚀 Apaixonado por tecnologia | 🛠️ Sempre aprendendo algo novo | 🌱 Em constante evolução | 🔧 Focado em criar soluções eficientes
 
 
 
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js" alt="NodeJS">
   <img src="https://img.shields.io/badge/-AdonisJS-333333?style=flat&logo=adonisjs" alt="AdonisJS">
+  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=react" alt="React">
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreeSQL">
   <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia">
   <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman">
@@ -48,9 +49,9 @@
   <h3><b>🚀 Sobre Mim</b></h3>
 </div>
 
-- 🎓 Estudante de Sistemas para Internet na UFSM.
-- 💼 Presidente da **CompAct Jr.**, onde lidero equipes e desenvolvemos soluções tecnológicas inovadoras.
-- 🌱 Atualmente aprendendo mais sobre **microsserviços**.
+- 🎓 Graduado em Sistemas para Internet na UFSM.
+- 💼 Mestrando em Ciência da Computação na UFSM.
+- 🌱 Atualmente estudando sobre **Microsserviços** e também buscando desenvolver mais as minhas habilidades no **FrontEnd**.
 - 👯 Sempre aberto para colaborar em projetos e trocar conhecimento.
 
 ---
@@ -73,7 +74,7 @@
   <a href="https://www.facebook.com/emanuel.wagnerpereira.5/" title="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/emanuel_wp_/" title="Instagram" target="_blank">
+  <a href="https://www.instagram.com/emanuel.wape/" title="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
