@@ -65,7 +65,7 @@
   <a href="https://www.facebook.com/emanuel.wagnerpereira.5/" title="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/emanuel.wape/" title="Instagram" target="_blank">
+  <a href="https://www.instagram.com/emanuelwp.dev/" title="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
